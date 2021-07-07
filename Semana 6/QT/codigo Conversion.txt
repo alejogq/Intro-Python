@@ -1,0 +1,1 @@
+pyuic5 NombreArchivo.ui -o NombreArchivo.py
