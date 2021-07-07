@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="imagenes">
+    <file>Us-3D.png</file>
+  </qresource>
+</RCC>
